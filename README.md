@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora em java
+ Calculadora em java com as operações básicas
