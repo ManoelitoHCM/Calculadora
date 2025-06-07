@@ -26,7 +26,3 @@ O projeto contém testes unitários implementados com JUnit, cobrindo todos os m
 
 1. Certifique-se de ter o JUnit no classpath.
 2. Execute os testes com um ambiente compatível (como IntelliJ, Eclipse ou via terminal com `javac` e `java`).
-
-## 🚀 Como executar
-
-Compile e execute o `Main.java`:
