@@ -5,7 +5,9 @@ Este projeto é uma aplicação simples em Java que implementa uma calculadora c
 ## 📁 Estrutura do Projeto
 
 ├── Calculadora.java # Classe com os métodos de operações matemáticas
+
 ├── CalculadoraTeste.java # Testes automatizados com JUnit
+
 └── Main.java # Classe principal com interface de terminal
 
 
